@@ -16,3 +16,4 @@ class BoardObject {
   }
 }
 
+console.log("hello")
